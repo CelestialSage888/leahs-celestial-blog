@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leah's Mystical Blog & Readings</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1a1a1a;
+            color: #ffffff;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #3b3b3b;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+        nav {
+            text-align: center;
+            margin-top: 10px;
+        }
+        nav a {
+            color: #ffffff;
+            text-decoration: none;
+            padding: 10px 20px;
+            display: inline-block;
+        }
+        nav a:hover {
+            background: #555;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .blog-post {
+            background: #2c2c2c;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+        }
+        .services {
+            background: #3b3b3b;
+            padding: 15px;
+            border-radius: 8px;
+        }
+        footer {
+            background: #222;
+            color: #ccc;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Leah's Mystical Blog & Readings</h1>
+        <p>Astrology | Galactic Charts | Tarot | Energy Healing</p>
+    </header>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#blog">Blog</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            Welcome! I’m Leah, an intuitive astrologer, tarot reader, and energy worker with a deep passion for 
+            exploring the cosmic connections between astrology, past lives, and higher dimensional wisdom. 
+            With years of experience studying Galactic Astrology, Quantum Soul Guidance, and energy healing, 
+            I help people navigate their life paths, uncover hidden strengths, and find clarity through 
+            personalized readings and spiritual insights.
+        </p>
+        <p>
+            Whether you’re looking for deep astrological insights, tarot guidance, or energy work to realign 
+            your soul’s path, I’m here to help. Follow my blog for cosmic updates, intuitive downloads, and 
+            insights into the ever-unfolding celestial energies.
+        </p>
+    </section>
+
+    <section id="blog">
+        <h2>Latest Blog Posts</h2>
+        <div class="blog-post">
+            <h3>Post Title Example 1</h3>
+            <p><strong>Published:</strong> [Date]</p>
+            <p>This is a placeholder for your blog post content. You can easily update this section with new posts as you go.</p>
+            <a href="#">Read More</a>
+        </div>
+        <div class="blog-post">
+            <h3>Post Title Example 2</h3>
+            <p><strong>Published:</strong> [Date]</p>
+            <p>Another example post. Each blog entry can dive into astrology, tarot insights, or energy updates.</p>
+            <a href="#">Read More</a>
+        </div>
+        <p><a href="#">View All Blog Posts</a></p>
+    </section>
+
+    <section id="services">
+        <h2>Services</h2>
+        <div class="services">
+            <h3>🌌 Galactic Astrology Readings</h3>
+            <p>Explore your soul’s cosmic journey, past-life star system connections, and how your galactic alignments influence your path.</p>
+
+            <h3>🔮 Tarot Readings</h3>
+            <p>Gain insight, clarity, and guidance on your life’s journey through an intuitive tarot session tailored to your needs.</p>
+
+            <h3>✨ Energy Healing</h3>
+            <p>Clear energetic blockages, realign your aura, and receive intuitive messages to support your personal growth.</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact & Booking</h2>
+        <p>Interested in a reading or energy session? Reach out below or follow me on social media for updates.</p>
+        <p><strong>Email:</strong> [Your Email Here]</p>
+        <p><strong>Instagram:</strong> [Your Instagram Here]</p>
+        <p><strong>Booking:</strong> [Future booking link here]</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Leah's Mystical Blog | All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>
